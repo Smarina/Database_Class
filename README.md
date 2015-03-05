@@ -1,16 +1,16 @@
 Clase para hacer consultas con estamentos de MySQLi
 <hr>
-### Table of Contents
-**[Iniciar](#iniciar)**
-**[Insert](#insert)**
-**[Select](#select)**
-**[Where](#where)**
-**[Update](#update)**
-**[Delete](#delete)**
-**[Consultas Simples](#consultas-simples)**
-**[Order By](#order-by)**
-**[Group By](#group-by)**
-**[Join](#join-method)**
+### Índice
+**[Iniciar](#iniciar)**<br/>
+**[Insert](#insert)**<br/>
+**[Select](#select)**<br/>
+**[Where](#where)**<br/>
+**[Update](#update)**<br/>
+**[Delete](#delete)**<br/>
+**[Consultas Simples](#consultas-simples)**<br/>
+**[Order By](#order-by)**<br/>
+**[Group By](#group-by)**<br/>
+**[Join](#join)**<br/>
 **[Consultas Complejas](#consultas-complejas)**
 
 ### Iniciar
