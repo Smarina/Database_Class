@@ -16,7 +16,7 @@ Clase para hacer consultas con estamentos de MySQLi
 ### Iniciar
 
 ```php
-require_once ('MysqliDb.php');
+require_once ('Database.php');
 $db = new Database('server', 'user', 'password', 'database');
 ```
 
